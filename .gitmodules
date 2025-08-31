@@ -1,0 +1,6 @@
+[submodule "tdse-tp0_02-hw_sw_test"]
+	path = tdse-tp0_02-hw_sw_test
+	url = https://github.com/RMantaras/tdse-tp0_02-hw_sw_test.git
+[submodule "tdse-tp0_01-hw_sw_test"]
+	path = tdse-tp0_01-hw_sw_test
+	url = https://github.com/RMantaras/tdse-tp0_01-hw_sw_test.git
